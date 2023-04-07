@@ -29,7 +29,7 @@ const attack = () => {
             if(monsters.length === 0){
                 setTimeout(() => {
                     endGame()
-                }, 1500);
+                }, 1000);
             }
             else {
                 monster = getNewMonster()
@@ -37,7 +37,7 @@ const attack = () => {
                 setTimeout(() => {
                     render()
                     isWaiting = false
-                }, 1500);
+                }, 1000);
             }
         }
     }
