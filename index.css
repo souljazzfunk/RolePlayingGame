@@ -186,6 +186,7 @@ main {
     .dice-container .dice, .dice-container .placeholder-dice{
         height:5vw;
         width:5vw;
+        font-size: 2rem;
         line-height: 5.5vw;
     }
 }
