@@ -17,7 +17,7 @@ This project showcases a mobile-first responsive design, making it accessible an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/monster-battle.git
+git clone https://github.com/souljazzfunk/RolePlayingGame.git
 ```
 2. Open index.html in your web browser.
 
