@@ -7,6 +7,10 @@ Monster Battle is a simple, turn-based game built with JavaScript. Players take 
 ## Demo
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cb5a95af-6c9b-4a0f-a940-ca05ce9cd95f/deploy-status)](https://sjf-role-playing-game.netlify.app/)
 
+## Responsive Design
+
+This project showcases a mobile-first responsive design, making it accessible and enjoyable on a wide range of devices. The layout adapts fluidly depending on the screen size:
+
 ## Installation
 
 1. Clone the repository:
