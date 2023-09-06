@@ -1,5 +1,7 @@
 # Monster Battle: A JavaScript Turn-Based Game
 
+<img width="637" alt="image" src="https://github.com/souljazzfunk/RolePlayingGame/assets/59495284/4cffa955-9e87-48d8-afa2-572487e69af5">
+
 ## Overview
 
 Monster Battle is a simple, turn-based game built with JavaScript. Players take on the role of a hero battling a series of monsters. The game proceeds in turns, allowing both the player and the computer-controlled monster to attack one another until one emerges victorious.
